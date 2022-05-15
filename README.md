@@ -1,1 +1,1 @@
-# product-store
+# react-product-store
